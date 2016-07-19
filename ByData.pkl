@@ -1,0 +1,14 @@
+(dp0
+S'ByMan'
+p1
+V\u5411\uff38\uff38
+p2
+sS'ByUnit'
+p3
+V\u5927\u961f\u7efc\u5408\u5904
+p4
+sS'ByLeader'
+p5
+Vttt
+p6
+s.
